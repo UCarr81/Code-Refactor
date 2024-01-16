@@ -4,6 +4,11 @@
 
 I have made several changes to the HTML and Css styling and code Snippets to enhance the accessibility, and organization Below are key changes that I made to refactor this file.
 
+## Live Preview
+![Live Preview](./assets/images/Horiseon%20Image.png)
+
+Live Website - 
+
 ## Table of Contents
 - [HTML Changes](#html-changes)
 - [CSS Changes](#css-changes)
